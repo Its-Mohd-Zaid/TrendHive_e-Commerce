@@ -189,7 +189,6 @@ const AddProduct = () => {
           <button
             type="submit"
             className="btn btn-primary"
-            // onClick={submitHandler}
           >
             Submit
           </button>
