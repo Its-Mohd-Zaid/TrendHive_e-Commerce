@@ -66,6 +66,8 @@ const Navbar = ({ onSelectCategory, onSearch }) => {
     document.body.className = theme;
   }, [theme]);
 
+//Array is used to store all categories
+
   const categories = [
     "Laptop",
     "Headphone",
